@@ -105,3 +105,17 @@ Quick tips on getting started with Stoicism:
 
 1. Be a stealth Stoic
 2. Master Stoic techniques one by one
+
+---
+
+Coincidentally, I was vacationing in Larnaca—the hometown of Zeno, creator of Stoicism—when composing this summary. Also by accident, I was pleasantly surprised to stumble upon his statue while walking along the seashore.
+
+<img src="larnaca/zeno.jpg" height="200">
+<img src="larnaca/church.jpg" height="200">
+<img src="larnaca/beach.jpg" height="200">
+<img src="larnaca/balcony-sunset.jpg" height="200">
+<img src="larnaca/salt-lake.jpg" height="200">
+
+Thanks to Derek Sivers for [recommending](https://sivers.org/book) this book and to Bianca Dragomir for editing my notes!
+
+Ovidiu Cherecheș, Dec 2015
