@@ -102,5 +102,6 @@ Modern science taught us that fear and anxiety mechanisms have an evolutionary p
 **Irvine recommends a cure for the "evolutionary autopilot", by cultivating a Philosophy of Life that best matches your personality and circumstances**—be it Stoicism, a different school of philosophy or a unique set of values that work for you.
 
 Quick tips on getting started with Stoicism:
+
 1. Be a stealth Stoic
 2. Master Stoic techniques one by one
