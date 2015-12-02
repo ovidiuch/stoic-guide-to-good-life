@@ -48,6 +48,7 @@ Another psychological tool to alleviate anger: projective visualization. Imagine
 - If it succeeds, we experienced anxiety (and lost tranquility) in the process of rooting for something we are not in charge of
 
 The author proposes an extended model: The trichotomy of control. Here, goals can fall into one of three categories:
+
 1. Completely under our control (e.g. not holding grudges)
 2. Completely outside our control (e.g. weather)
 3. In between the first two (e.g. winning at tennis)
