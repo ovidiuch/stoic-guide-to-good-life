@@ -4,7 +4,7 @@ This is a compilation of the notes I took while enjoying an audio version of Wil
 
 Instead of exploring classic philosophy, the book provides a practical lifestyle guide based on philosophical concepts. Namely, the book tries to answer the question **"What advice would ancient Stoics from 2k years ago give to modern people?"**
 
-This guide is meant to provide a so-called **Philosophy of Life.** A fundamental practical guide to everyday decisions based on a set of ethical beliefs. An common education in ancient Greece, but absent in the modern era.
+This guide is meant to provide a so-called **Philosophy of Life.** A fundamental practical guide to everyday decisions based on a set of ethical beliefs. A common education in ancient Greece, but absent in the modern era.
 
 To the author's initial surprise, and contrary to common belief, Stoicism is not about suppressing all human emotions, just the negative ones—allowing you to enjoy the positive things in life, as long as you don't cling to them.
 
